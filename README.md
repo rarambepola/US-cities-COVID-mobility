@@ -1,5 +1,10 @@
 # US-cities-COVID-mobility
 
+Code and mock data for the analysis in "TITLE" (link). This data is provided to demonstrate how the models can be run and produces similar results to those presented in the paper. The four R scripts included can be run individually or run in the order suggested to first fit each model to the data and then plot the results. 
+
+
+
+
 
 
 Note: In the model of mobility over summer the direction of the fitted covariate effects should be flipped to interpret these as described in the paper (large values meaning less travel). In more detail, the effect of covariates is implemented in the code as
