@@ -1,6 +1,6 @@
 # US-cities-COVID-mobility
 
-Code and mock data for the analysis in "TITLE" (link). This data is provided to demonstrate how the models can be run and produces similar results to those presented in the paper. The four R scripts included can be run individually or run in the order suggested to first fit each model to the data and then plot the results. 
+Thi repository contains code and mock data for the analysis in "TITLE" (link). This data is provided to demonstrate how the models can be run and produces similar results to those presented in the paper. The four R scripts included can be run individually or run in the order suggested to first fit each model to the data and then plot the results. 
 
 
 
